@@ -1,4 +1,6 @@
-<img src="https://profile-counter.glitch.me/bahadircan-bc/count.svg"></img>
+<div style="display: flex; jusitfy-content:center; align-items:center;">
+<img src="https://profile-counter.glitch.me/bahadircan-bc/count.svg" style=""></img>  
+  </div>
 
 <!--
 **bahadircan-bc/bahadircan-bc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
