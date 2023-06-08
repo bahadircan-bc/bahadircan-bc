@@ -1,4 +1,4 @@
-<div style="display: flex; jusitfy-content:center; align-items:center; width: 100%;">
+<div style="display: flex; jusitfy-content:center; align-items:center; width: 100%; background-color: white;">
 <img src="https://profile-counter.glitch.me/bahadircan-bc/count.svg" style=""></img>  
   </div>
 
